@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class QuickSort{
+public class QuickSort{
 
 public static void main(String[] args){
 
@@ -10,7 +10,7 @@ public static void main(String[] args){
     {
         number[i]=sc.nextInt();
     }   
-    
+
 
 
 }
